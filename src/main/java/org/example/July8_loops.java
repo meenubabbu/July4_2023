@@ -8,6 +8,7 @@ public class July8_loops {
             count=count+i;
             System.out.println("2 * "+i+" = "+(2*i));
         }
-        System.out.println("sum of first ten natural numbers is "+count);
+        System.out.println("sum of first ten natural numbers is : " +
+                ""+count);
     }
 }
